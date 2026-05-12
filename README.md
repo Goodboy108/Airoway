@@ -16,4 +16,17 @@ BMP280: Barometric pressure & temperature
 
 GP2Y1010: Dust & fine particles
 
+
 The logic chips I am using-
+
+74HC595: 8-bit serial-in, parallel-out shift register (used to control many outputs with few pins).
+
+74HC00: Quad 2-input NAND gates.
+
+74HC04: Hex NOT gates (inverters).
+
+74LS08: Quad 2-input AND gates.
+
+74LS32: Quad 2-input OR gates.
+
+74HC74: Dual D-type positive-edge-triggered flip-flops (used for storing 1 bit of data).
