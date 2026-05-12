@@ -4,7 +4,7 @@ My main motivation for making this project was to learn more about hardware and 
 
 ## Sensors
 
-| Sensor   | Purpose                           |
+| Sensor   | What this does!                   |
 | -------- | --------------------------------- |
 | MQ135    | Air quality (various gases)       |
 | MQ7      | Carbon monoxide (CO)              |
@@ -15,7 +15,7 @@ My main motivation for making this project was to learn more about hardware and 
 
 ## Logic Chips
 
-| Chip    | Description                                                                               |
+| Chip    | What this does!                                                                           |
 | ------- | ----------------------------------------------------------------------------------------- |
 | 74HC595 | 8-bit serial-in, parallel-out shift register (used to control many outputs with few pins) |
 | 74HC00  | Quad 2-input NAND gates                                                                   |
@@ -23,3 +23,8 @@ My main motivation for making this project was to learn more about hardware and 
 | 74LS08  | Quad 2-input AND gates                                                                    |
 | 74LS32  | Quad 2-input OR gates                                                                     |
 | 74HC74  | Dual D-type positive-edge-triggered flip-flops (used for storing 1 bit of data)           |
+
+
+Instructions on use- 
+
+Just place this in your room and plug it in to the adaptor, and it will actively monitor your environment and give you accurate results on its inbuilt display!
