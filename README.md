@@ -5,10 +5,15 @@ My main motivation for making this project was to learn more about hardware and 
 The list of sensors I am using is-
 
 MQ135: Air quality (various gases)
+
 MQ7: Carbon monoxide (CO)
+
 MQ2: Combustible gas & smoke
+
 DHT22: Temperature & humidity
+
 BMP280: Barometric pressure & temperature
+
 GP2Y1010: Dust & fine particles
 
 The logic chips I am using-
